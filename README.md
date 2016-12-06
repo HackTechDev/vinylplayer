@@ -1,6 +1,8 @@
 Minetest node/block vinyl player
 ================================
   
+By Le Sanglier des Ardennes    
+  
   
 * Convert Youtube video to mp3:  
 http://www.youtube-mp3.org/fr
